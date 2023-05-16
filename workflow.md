@@ -10,14 +10,10 @@ The recommended workflow for GitHub is to have a single main branch that is alwa
 
 On the other hand, the GitLab recommended workflow is more intricate and involves the use of multiple “main” branches e.g., production, pre-production, release, etc. In the GitLab recommended workflow, feature and bug fix branches are created from the most current pre-production branch that includes the most recent changes (even if they are not live on production yet) and then merged back into the pre-production branch once tested. The pre-production branch is periodically merged into the production branch in the form of a release. The GitLab workflow emphasizes stability over speed, making ideal for largescale projects with a large userbase or sensitive data.
 
+##### The GitHub Recommended Workflow
 
-<table border="0">
- <tr>
-    <td><b style="font-size:15px">The GitHub Recommended Workflow</b></td>
-    <td><b style="font-size:15px">The GitLab Recommended Workflow</b></td>
- </tr>
- <tr>
-    <td markdown="1">![github-workflow](assets/img/github-workflow.png)</td>
-    <td markdown="1">![gitlab-workflow](assets/img/gitlab-workflow.png)</td>
- </tr>
-</table>
+![github-workflow](assets/img/github-workflow.png)
+
+##### The GitLab Recommended Workflow
+![github-workflow](assets/img/github-workflow.png)
+While you can technically opt for either workflow in both platforms, sticking to the recommended workflow makes your projects easier to use and augment for each platform’s respective community since the developers in each community will most likely be accustomed to the recommended workflow.

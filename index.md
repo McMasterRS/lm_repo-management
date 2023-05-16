@@ -28,4 +28,4 @@ GitLab is also built on top of the Git open-source version control system and pr
 GitLab’s main selling point is ability to act as a complete DevOps platform without needing additional third-party plugins, thus making it an ideal choice for teams looking for a single software solution to carry their project from the planning phase to the deployment phase.
 
 ### Comparison
-Both GitHub and GitLab provide excellent solutions for code management and version control. However, there are some considerable differences between these two platforms that may cause a team of developers to opt for one platform over the other. In this section, we will provide a detailed comparison of GitHub and Gitlab in 7 key areas: workflow, CI/CD, issue tracking, extensions, community support, self-hosted installations, and cost .
+Both GitHub and GitLab provide excellent solutions for code management and version control. However, there are some considerable differences between these two platforms that may cause a team of developers to opt for one platform over the other. In this section, we will provide a detailed comparison of GitHub and GitLab in 7 key areas.
