@@ -2,7 +2,7 @@
 
 Materials for the McMaster Research Software learning module: **Introduction to Git Repository Management Services**  
 
-This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/repo-management) with GitHub Pages.  
+This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/lm_repo-management) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Workshop content created by Elias Eid
