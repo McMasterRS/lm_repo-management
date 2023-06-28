@@ -3,13 +3,13 @@ layout: default
 title: Outline
 nav_order: 3
 ---
-## Goal of this workshop
+## Goal of this learning module
 
-The goal of this workshop is to help developers choose a web-based management repository management service that suits the workstyle as well as the needs of the team and the project.
+The goal of this learning module is to help developers choose a web-based management repository management service that suits the workstyle as well as the needs of the team and the project.
 
 ### Learning Objectives
 
-At the end of this workshop, attendees will be able to:
+At the end of this learning module, attendees will be able to:
 
 - Have a high-level understanding of the differences between GitHub and GitLab
 - Differentiate between the recommended workflows of GitHub and GitLab
