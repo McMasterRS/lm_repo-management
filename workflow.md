@@ -15,6 +15,6 @@ On the other hand, the GitLab recommended workflow is more intricate and involve
 ![github-workflow](assets/img/github-workflow.png)
 
 ### The GitLab Recommended Workflow
-![github-workflow](assets/img/github-workflow.png)
+![gitlab-workflow](assets/img/gitlab-workflow.png)
 
 While you can technically opt for either workflow in both platforms, sticking to the recommended workflow makes your projects easier to use and augment for each platform’s respective community since the developers in each community will most likely be accustomed to the recommended workflow.
