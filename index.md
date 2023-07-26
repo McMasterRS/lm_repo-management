@@ -7,6 +7,8 @@ nav_order: 1
 
 GitHub and GitLab are web-based repository management services that provide an extensive suite of code management features and enable sharing local file changes with a remote repository using the Git version control system. Given the similarities between these two repository management services, developers may find it challenging to select the right one for their project. Choosing the right repository management service depends on the scope of your project, the size of your team and the resources available to that team. In this learning module, we will explore the key differences between GitHub and GitLab to help developers choose the right repository management service for their team.
 
+If you are not already with the Git version control system, we recommend consulting the [Introduction to Git and GitHub (ubc-library-rc.github.io)](https://ubc-library-rc.github.io/intro-git/) workshop provided by the UBC Library Research Commons.
+
 ### GitHub
 
 GitHub is a web-based repository management solution founded on Git, an open-source code management system. GitHub allows software developers to create and manage public repositories for free, but it charges for private repositories and offers a variety of paid plans. A GitHub repository contains all the files of a project as well as their revision history, which allows developers to easily modify, collaborate, and merge their code. A repository can have multiple collaborators working simultaneously on a project. GitHub provides a vast array of functions to help developers manage their code base. The most popular GitHub functions and their uses are listed below:
