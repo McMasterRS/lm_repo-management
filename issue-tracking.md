@@ -2,6 +2,7 @@
 layout: default
 title: Issue Tracking
 nav_order: 6
+has_children: true
 ---
 
 # Issue Tracking
