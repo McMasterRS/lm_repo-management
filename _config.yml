@@ -1,6 +1,6 @@
 title: Introduction to Git Repository Management Services # *** Enter workshop title here
 github_repo_url: "https://mcmasterrs.github.io/lm_repo-management" # ***Enter workshop URL (in github pages) here
-gh_edit_repository: "https://github.com/McMasterRS/lm_repo-management" #*** ENTER the github URL for your repo
+gh_edit_repository: "https://github.com/McMasterRS/lm_repo-management" # *** ENTER the github URL for your repo
 
 subtitle: "Research Software Development Learning Module - Introduction to Git Repository Management Services"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
