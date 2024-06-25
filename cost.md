@@ -10,4 +10,4 @@ GitLab is marketed as a complete feature-packed DevOps platform that reduces the
 
 Detailed pricing plans for GitHub can be found on: [Pricing · Plans for every developer (github.com)](https://github.com/pricing)
 
-Detailed pricing plans for GitLab can be found on: [Pricing | GitLab](https://about.gitlab.com/pricing/)
+Detailed pricing plans for GitLab can be found on: [Pricing · GitLab](https://about.gitlab.com/pricing/)
